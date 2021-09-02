@@ -1,0 +1,55 @@
+/*!
+Theme Name: Artooz Theme
+Theme URI: http://sunrisesoftlab.in/
+Author: Sunrise Softlab
+Author URI: http://sunrisesoftlab.in
+Description: A Multi-Purpose News/Magazine/Business/Portfolio/Landing AMP WordPress Theme
+Version: 1.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: artooztheme
+Tags: two-columns, custom-menu, featured-images, post-formats, sticky-post, threaded-comments, translation-ready, editor-style
+Domain Path: /languages
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Review
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+@import "variables-site/variables-site";
+@import "mixins/mixins-master";
+/*--------------------------------------------------------------
+# Bootstrap
+--------------------------------------------------------------*/
+@import "bootstrap";
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+@import "normalize";
+

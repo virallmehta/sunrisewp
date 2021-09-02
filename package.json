@@ -1,0 +1,27 @@
+{
+  "name": "sunrise",
+  "version": "1.0.0",
+  "description": "A minimal WordPress blank theme for developpers including Bootstrap 3.3.7,  SCSS, CSS, JS and Images with GULP",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viral Mehta",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-bower": "0.0.14",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-include": "^2.3.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-livereload": "^4.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-watch": "^5.0.1"
+  }
+}
